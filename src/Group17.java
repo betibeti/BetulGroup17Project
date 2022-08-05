@@ -4,5 +4,12 @@ public class Group17 {
 
         //Haden Z.
 
+<<<<<<< HEAD
+=======
+        //Betul Kocyigit
+
+
+>>>>>>> master
     }
+
 }
