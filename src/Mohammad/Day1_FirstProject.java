@@ -1,6 +1,6 @@
 package Mohammad;
 
-public class Day_FirstProject {
+public class Day1_FirstProject {
 
     public static void main(String[] args) {
 
